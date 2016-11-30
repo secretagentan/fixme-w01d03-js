@@ -11,7 +11,7 @@ var user = {
 };
 
 user.occupation = 'spaceman';
-// user["occupation"] = 'spaceman';
+// or ==> user["occupation"] = 'spaceman';
 
 var destinations = [];
 
